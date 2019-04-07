@@ -1,0 +1,54 @@
+.flexblock li h2 svg,.flexblock li h3 svg {margin-top: 0;
+}
+
+h1 {
+font-size: 6rem;
+font-family: 'Concert One', cursive;
+line-height: 6rem;
+padding-bottom: 2rem}
+h2 {
+font-size: 4rem;
+font-weight: 500;
+}
+
+p {
+line-height: 135%;
+font-size: 1.8rem;
+}
+
+.text-data {
+font-size: 10rem;
+line-height: 110%;}
+
+
+.animate-show {
+display: none !important;
+}
+.animate-show.animated {
+display: inherit !important;
+}
+
+.animate-show-visibility {
+opacity: 0 !important;
+visibility: hidden;
+}
+.animate-show-visibility.animated {
+opacity: 1 !important;
+visibility: visible;
+}
+
+.animate-hide {
+display: inherit !important;
+}
+.animate-hide.animated {
+display: none !important;
+}
+
+.animate-hide-visibility {
+opacity: 1 !important;
+}
+.animate-hide-visibility.animated {
+opacity: 0 !important;
+}
+
+

@@ -3,7 +3,7 @@ index: 10
 ---
         
 <section> <!--Introduction aux reportages -->
-<span class="background light" style="background-image:url('assets/images/intro.jpg')"></span>
+<span class="background light" style="background-image:url('assets/images/help.jpg')"></span>
 <!--.wrap = container (width: 90%) -->
     <div class="wrap size-50 aligncenter">
         <div class="bg-trans-dark">

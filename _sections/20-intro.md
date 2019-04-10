@@ -1,11 +1,11 @@
 ---
-index: 410
+index: 20
 type_of_section: "card"
 image_side: "right"
-title: Arrivée des ruches sur le site
+title: "Le verger-école, en deux mots"
 sub-title: "L'apiculture : un travail de force"
 image:
-  file: "assets/images/plantation-bulbes-intro.jpg"
+  file: "assets/images/intro.jpg"
   description: "Arrivée des ruches sur le site"
   author: A.A.L.E.
   author_link: 

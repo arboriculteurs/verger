@@ -1,13 +1,13 @@
 # Jekyll settings
 #
-title: Brève histoire du verger-école de l'AALE
-email: webmestre@arboriculteurs-lichtenberg.eu
-lang: fr-FR
+title: "Le verger-école de l'AALE"
+email: "webmestre@arboriculteurs-lichtenberg.eu"
+lang: "fr-FR"
 description: 
-  Le verger-école : brève histoire, du défrichage aux premières animations scolaires.
+  "Le verger-école de l'Association des Arboriculteurs de Lichtenberg et environs : une brève histoire, du défrichage aux animations scolaires, en passant par la plantation des arbres et les premières tailles."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.arboriculteurs-lichtenberg.eu/verger-ecole" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jekyll
+github_username:  arboriculteurs
 nav_direction: vertical # vertical, horizontal 
 image_dir: "assets/images"
 sound_dir: "assets/sounds"

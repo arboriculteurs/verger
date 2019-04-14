@@ -7,7 +7,7 @@ title: "Remerciements"
 image:
   file: "assets/images/credits.jpg"
   description: "Áqaba, Jordan"
-  author: "James Balmer (Unsplash)"
+  author: "James BALMER (Unsplash)"
   author_link: "https://www.unsplash.com"
 ---
   <div class="wrap">

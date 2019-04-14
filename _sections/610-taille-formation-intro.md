@@ -7,7 +7,7 @@ sub-title: "L'apiculture : un travail de force"
 image:
   file: "assets/images/taille-formation-intro.jpg"
   description: "Arrivée des ruches sur le site"
-  author: Pierre Kessler
+  author: Pierre KESSLER
   author_link: 
 ---
 ## Lorem Salu bissame !  ##   

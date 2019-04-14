@@ -9,6 +9,6 @@ text:
 image:
   file: "assets/images/taille-formation-fp-a.jpg"
   description: "Lorem schnapsum"
-  author: "Pierre Kessler"
+  author: Pierre KESSLER
   author_link: 
 ---

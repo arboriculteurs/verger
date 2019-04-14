@@ -5,6 +5,6 @@ title: "Des arbres... et des fleurs"
 image:
   file: "plantation-bulbes-titre.jpg"
   description: "Plantation des bulbes - 1"
-  author: A.A.L.E.
+  author: Yves KLEIN
   author_link: 
 ---

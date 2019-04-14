@@ -5,6 +5,6 @@ title: Le verger vu du ciel
 image:
   file: "drone-titre.jpg"
   description: "Le verger vu du ciel - 1"
-  author: Yves Klein
+  author: Yves KLEIN
   author_link: 
 ---

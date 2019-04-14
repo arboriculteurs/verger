@@ -5,6 +5,6 @@ title: Aventures au rucher
 image:
   file: "eleves-rucher-titre.jpg"
   description: "Les élèves au rucher - 1"
-  author: Pierre Kessler
+  author: Pierre KESSLER
   author_link: 
 ---

@@ -5,6 +5,6 @@ title: "Visite des partenaires institutionnels"
 image:
   file: "financeurs-titre.jpg"
   description: "Visite des partenaires institutionnels - 1"
-  author: Pierre Kessler
+  author: Pierre KESSLER
   author_link: 
 ---

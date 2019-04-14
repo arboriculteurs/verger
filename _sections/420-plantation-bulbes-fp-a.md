@@ -9,6 +9,6 @@ text:
 image:
   file: "assets/images/plantation-bulbes-fp-a.jpg"
   description: "Lorem schnapsum"
-  author: AALE
+  author: Yves KLEIN
   author_link: 
 ---

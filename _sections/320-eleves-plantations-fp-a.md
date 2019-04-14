@@ -9,6 +9,6 @@ text:
 image:
   file: "assets/images/eleves-plantations-fp-a.jpg"
   description: "Lorem schnapsum"
-  author: AALE
+  author: René ARNOLD
   author_link: 
 ---

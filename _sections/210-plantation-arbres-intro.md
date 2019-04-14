@@ -7,7 +7,7 @@ sub-title: "L'apiculture : un travail de force"
 image:
   file: "assets/images/plantation-arbres-intro.jpg"
   description: "Arrivée des ruches sur le site"
-  author: A.A.L.E.
+  author: Rita ARNOLD
   author_link: 
 ---
 ## Lorem Salu bissame !  ##   

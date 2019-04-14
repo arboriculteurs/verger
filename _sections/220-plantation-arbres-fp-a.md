@@ -9,6 +9,6 @@ text:
 image:
   file: "assets/images/plantation-arbres-fp-a.jpg"
   description: "Lorem schnapsum"
-  author: AALE
+  author: Rita ARNOLD
   author_link: 
 ---

@@ -9,6 +9,6 @@ text:
 image:
   file: "assets/images/transfert-fp-c.jpg"
   description: "Lorem schnapsum"
-  author: AALE
+  author: Andrée DRESSAYRE
   author_link: 
 ---

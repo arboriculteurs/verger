@@ -9,6 +9,6 @@ text:
 image:
   file: "assets/images/drone-fp-a.jpg"
   description: "Lorem schnapsum"
-  author: "Yves Klein"
+  author: Yves KLEIN
   author_link: 
 ---

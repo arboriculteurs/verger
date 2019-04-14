@@ -5,6 +5,6 @@ title: Taille de formation
 image:
   file: "taille-formation-titre.jpg"
   description: "Taille de formation - 1"
-  author: Pierre Kessler
+  author: Pierre KESSLER
   author_link: 
 ---

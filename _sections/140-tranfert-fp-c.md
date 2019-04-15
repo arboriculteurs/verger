@@ -1,14 +1,14 @@
 ---
 index: 140
 type_of_section: "fullimage"
-title: "Lorem Schnapsum"
-sub-title: "S'guelt Chulia Roberstau morbi tellus schneck quam, geht's sit kartoffelsalad dolor Gal."
+title: "Et arrivée au verger"
+sub-title: "Il ne reste plus qu'à mettre le rucher à niveau et à y installer les abeilles."
 text:
    position: 9
    background: "dark"
 image:
   file: "assets/images/transfert-fp-c.jpg"
-  description: "Lorem schnapsum"
+  description: "Et arrivée au verger"
   author: Andrée DRESSAYRE
   author_link: 
 ---

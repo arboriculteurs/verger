@@ -5,7 +5,7 @@ title: "La main à la pâte"
 calendrier: décembre 2018
 image:
   file: "eleves-plantations-titre.jpg"
-  description: "Les élèves plantent - 1"
+  description: "Les élèves plantent"
   author: René ARNOLD
   author_link: 
 ---

@@ -5,7 +5,7 @@ title: "Les premiers arbres&nbsp;!"
 calendrier: décembre 2018
 image:
   file: "plantation-arbres-titre.jpg"
-  description: "Plantations des premiers arbres - 1"
+  description: "Les premiers arbres&nbsp;!"
   author: Rita ARNOLD
   author_link: 
 ---

@@ -2,11 +2,11 @@
 index: 710
 type_of_section: "card"
 image_side: "right"
-title: Arrivée des ruches sur le site
-sub-title: "L'apiculture : un travail de force"
+title: Pas des cosmonautes, des apiculteurs !
+sub-title: "Une première ouverture des ruches, avec les élèves en tenue"
 image:
   file: "assets/images/eleves-rucher-intro.jpg"
-  description: "Arrivée des ruches sur le site"
+  description: "Première ouverture des ruches"
   author: Pierre KESSLER
   author_link: 
 ---

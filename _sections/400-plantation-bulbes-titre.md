@@ -5,7 +5,7 @@ title: "Des arbres... et des fleurs"
 calendrier: janvier 2019
 image:
   file: "plantation-bulbes-titre.jpg"
-  description: "Plantation des bulbes - 1"
+  description: "Plantation des bulbes"
   author: Yves KLEIN
   author_link: 
 ---

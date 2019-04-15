@@ -1,14 +1,14 @@
 ---
 index: 730
 type_of_section: "fullimage"
-title: "Lorem Schnapsum"
-sub-title: "S'guelt Chulia Roberstau morbi tellus schneck quam, geht's sit kartoffelsalad dolor Gal."
+title: "Travailleuses"
+sub-title: "Un rayon retiré de la ruche permet d'admirer les abeilles au travail : couvain et premier miel de printemps."
 text:
    position: 9
    background: "dark"
 image:
   file: "assets/images/eleves-rucher-fp-b.jpg"
-  description: "Lorem schnapsum"
+  description: "Travailleuses"
   author: Pierre KESSLER
   author_link: 
 ---

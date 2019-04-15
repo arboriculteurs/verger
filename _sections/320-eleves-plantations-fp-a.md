@@ -1,14 +1,14 @@
 ---
 index: 320
 type_of_section: "fullimage"
-title: "Lorem Schnapsum"
-sub-title: "S'guelt Chulia Roberstau morbi tellus schneck quam, geht's sit kartoffelsalad dolor Gal."
+title: "Maman, j'ai planté un arbre !"
+sub-title: "Et qui sais, quand tes enfants à toi iront à l'école, peut-être pourront-ils en cueillir les fruits..."
 text:
    position: 9
    background: "dark"
 image:
   file: "assets/images/eleves-plantations-fp-a.jpg"
-  description: "Lorem schnapsum"
+  description: "Maman, j'ai planté un arbre !"
   author: René ARNOLD
   author_link: 
 ---

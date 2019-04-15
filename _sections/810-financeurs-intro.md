@@ -2,11 +2,11 @@
 index: 810
 type_of_section: "card"
 image_side: "right"
-title: Arrivée des ruches sur le site
-sub-title: "L'apiculture : un travail de force"
+title: Des subsides bien employés
+sub-title: "Nos partenaires institutionnels sur le terrain"
 image:
   file: "assets/images/financeurs-intro.jpg"
-  description: "Arrivée des ruches sur le site"
+  description: "Nos partenaires institutionnels sur le terrain"
   author: Pierre KESSLER
   author_link: 
 ---

@@ -1,14 +1,14 @@
 ---
 index: 120
 type_of_section: "fullimage"
-title: "Lorem Schnapsum"
-sub-title: "S'guelt Chulia Roberstau morbi tellus schneck quam, geht's sit kartoffelsalad dolor Gal."
+title: "Les ruches sont provisoirement en place"
+sub-title: "Elles seront ensuite installées dans le rucher, une fois celui-ci transporté sur le terrain du verger-école."
 text:
    position: 9
    background: "dark"
 image:
   file: "assets/images/transfert-fp-a.jpg"
-  description: "Lorem schnapsum"
+  description: "Les ruches sont provisoirement en place"
   author: Andrée DRESSAYRE
   author_link: 
 ---

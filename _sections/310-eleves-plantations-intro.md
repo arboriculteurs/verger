@@ -2,8 +2,8 @@
 index: 310
 type_of_section: "card"
 image_side: "right"
-title: Arrivée des ruches sur le site
-sub-title: "L'apiculture : un travail de force"
+title: "Verger-école : verger pour l'école"
+sub-title: "L'arboriculture n'attend pas le nombre des années"
 image:
   file: "assets/images/eleves-plantations-intro.jpg"
   description: "Arrivée des ruches sur le site"

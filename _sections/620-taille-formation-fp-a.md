@@ -1,14 +1,14 @@
 ---
 index: 620
 type_of_section: "fullimage"
-title: "Lorem Schnapsum"
-sub-title: "S'guelt Chulia Roberstau morbi tellus schneck quam, geht's sit kartoffelsalad dolor Gal."
+title: "Couper... mais aussi redresser"
+sub-title: "Des tendeurs adaptés permettront de redresser certaines branches ou de leur donner la courbure souhaitée."
 text:
    position: 9
    background: "dark"
 image:
   file: "assets/images/taille-formation-fp-a.jpg"
-  description: "Lorem schnapsum"
+  description: "Couper... mais aussi redresser"
   author: Pierre KESSLER
   author_link: 
 ---

@@ -5,7 +5,7 @@ title: Le verger vu du ciel
 calendrier: février 2019
 image:
   file: "drone-titre.jpg"
-  description: "Le verger vu du ciel - 1"
+  description: "Le verger vu du ciel"
   author: Yves KLEIN
   author_link: 
 ---

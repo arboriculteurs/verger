@@ -1,8 +1,8 @@
 ---
 index: 820
 type_of_section: "fullimage"
-title: "Lorem Schnapsum"
-sub-title: "S'guelt Chulia Roberstau morbi tellus schneck quam, geht's sit kartoffelsalad dolor Gal."
+title: "Une question ?"
+sub-title: "Notre président présente dans le détail le déroulement du projet, l'avancement des travaux et les étapes à venir."
 text:
    position: 9
    background: "dark"

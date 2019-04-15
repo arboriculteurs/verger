@@ -1,14 +1,14 @@
 ---
 index: 130
 type_of_section: "fullimage"
-title: "Lorem Schnapsum"
-sub-title: "S'guelt Chulia Roberstau morbi tellus schneck quam, geht's sit kartoffelsalad dolor Gal."
+title: "Transport du rucher"
+sub-title: "Le rucher quitte son emplacement d'origine : attention à ne pas endommager la structure."
 text:
    position: 9
    background: "dark"
 image:
   file: "assets/images/transfert-fp-b.jpg"
-  description: "Lorem schnapsum"
+  description: "Transport du rucher"
   author: Andrée DRESSAYRE
   author_link: 
 ---

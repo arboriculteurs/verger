@@ -5,7 +5,7 @@ title: Aventures au rucher
 calendrier: avril 2019
 image:
   file: "eleves-rucher-titre.jpg"
-  description: "Les élèves au rucher - 1"
+  description: "Aventures au rucher"
   author: Pierre KESSLER
   author_link: 
 ---

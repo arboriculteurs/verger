@@ -3,11 +3,11 @@ index: 20
 type_of_section: "card"
 image_side: "right"
 title: "Le verger-école, en deux mots"
-sub-title: "L'apiculture : un travail de force"
+sub-title: "Arboriculture et Apiculture"
 image:
   file: "assets/images/intro.jpg"
-  description: "Arrivée des ruches sur le site"
-  author: Andrée DRESSAYRE
+  description: "Panneau de signalisation dans le village"
+  author: Pierre KESSLER
   author_link: 
 ---
 ## Lorem Salu bissame !  ##   

@@ -2,11 +2,11 @@
 index: 610
 type_of_section: "card"
 image_side: "right"
-title: Arrivée des ruches sur le site
-sub-title: "L'apiculture : un travail de force"
+title: Taille de formation
+sub-title: "Premier cours au verger-école"
 image:
   file: "assets/images/taille-formation-intro.jpg"
-  description: "Arrivée des ruches sur le site"
+  description: "Taille de formation"
   author: Pierre KESSLER
   author_link: 
 ---

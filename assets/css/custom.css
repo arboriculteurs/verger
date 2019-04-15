@@ -51,4 +51,6 @@ opacity: 1 !important;
 opacity: 0 !important;
 }
 
-
+.background {
+    background-position: center center;
+     }

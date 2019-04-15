@@ -1,14 +1,14 @@
 ---
 index: 720
 type_of_section: "fullimage"
-title: "Lorem Schnapsum"
-sub-title: "S'guelt Chulia Roberstau morbi tellus schneck quam, geht's sit kartoffelsalad dolor Gal."
+title: "Chacun son tour..."
+sub-title: "En quatre groupe successifs, les élèves ont revêtu des combinaisons d'apiculteurs pour pénétrer sans rique dans le rucher"
 text:
    position: 9
    background: "dark"
 image:
   file: "assets/images/eleves-rucher-fp-a.jpg"
-  description: "Lorem schnapsum"
+  description: "Chacun son tour..."
   author: Pierre KESSLER
   author_link: 
 ---

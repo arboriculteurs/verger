@@ -2,11 +2,11 @@
 index: 210
 type_of_section: "card"
 image_side: "right"
-title: Arrivée des ruches sur le site
-sub-title: "L'apiculture : un travail de force"
+title: "Plantation des premiers arbres"
+sub-title: "L'arboriculture, c'est aussi un travail de force"
 image:
   file: "assets/images/plantation-arbres-intro.jpg"
-  description: "Arrivée des ruches sur le site"
+  description: "Plantation des premiers arbres"
   author: Rita ARNOLD
   author_link: 
 ---

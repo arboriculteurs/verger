@@ -2,7 +2,7 @@
 index: 320
 type_of_section: "fullimage"
 title: "Maman, j'ai planté un arbre !"
-sub-title: "Et qui sais, quand tes enfants à toi iront à l'école, peut-être pourront-ils en cueillir les fruits..."
+sub-title: "Et qui sait, quand tes enfants à toi iront à l'école, peut-être pourront-ils en cueillir les fruits..."
 text:
    position: 9
    background: "dark"
